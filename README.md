@@ -7,7 +7,7 @@ extracts the human-readable label + offset for every setting it can find,
 and bakes that list into the GUI as a browsable menu — so you don't have
 to hunt for offsets by hand or type hex every time.
 
-Validated end-to-end against a real, production ASUS X99-PLUS/SLI BIOS
+Validated end-to-end against a real, production Gigabyte X99-PSLI BIOS
 image: the pipeline correctly pulled out **516 real, correctly-labeled
 settings** (e.g. `Setup,0x85,1,Non-K OC`, `Setup,0xFB,1,Extreme Memory
 Profile(X.M.P.)`) straight from the firmware, and the resulting binary

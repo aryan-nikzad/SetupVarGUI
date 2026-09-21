@@ -1,4 +1,4 @@
-#short summery
+# short summery
 
 --> give it a bios file (uefi)
 compile it

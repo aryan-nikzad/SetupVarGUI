@@ -1,4 +1,45 @@
-# SetupVar GUI + BIOS Offset Pipeline
+#short summery
+
+--> give it a bios file (uefi)
+compile it
+boot it
+now you have unlocked thousands of hidden bios options!!!
+
+## Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-36-02.png" width="32%">
+  <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-36-06.png" width="32%">
+  <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-36-17.png" width="32%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-36-22.png" width="32%">
+  <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-36-30.png" width="32%">
+  <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-37-01.png" width="32%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-37-02.png" width="32%">
+  <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-37-03.png" width="32%">
+  <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-37-08.png" width="32%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-37-12.png" width="32%">
+  <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-37-24.png" width="32%">
+  <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-37-28.png" width="32%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-37-36.png" width="32%">
+  <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-37-43.png" width="32%">
+  <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-38-12.png" width="32%">
+</p>
+
+
+
+# long detail: SetupVar GUI + BIOS Offset Pipeline
 
 A native UEFI application (single `.efi` binary, no OS required) for
 reading/writing firmware "Setup" NVRAM variables (hidden BIOS settings),

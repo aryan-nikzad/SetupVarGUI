@@ -196,3 +196,6 @@ sudo apt-get install gnu-efi python3
 - Full-firmware scans can be slow on very large images with hundreds of
   drivers; use the `name-filter` argument to narrow it down once you know
   which driver you care about.
+
+
+also... Thankyou Claude 💚

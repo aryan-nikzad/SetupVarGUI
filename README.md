@@ -26,15 +26,18 @@ now you have unlocked thousands of hidden bios options!!!
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-37-12.png" width="32%">
-  <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-37-28.png" width="32%">
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-37-36.png" width="32%">
   <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-37-43.png" width="32%">
   <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-38-12.png" width="32%">
 </p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-37-12.png" width="32%">
+  <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-37-28.png" width="32%">
+</p>
+
+
 
 
 

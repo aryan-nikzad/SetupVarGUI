@@ -27,7 +27,6 @@ now you have unlocked thousands of hidden bios options!!!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-37-12.png" width="32%">
-  <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-37-24.png" width="32%">
   <img src="https://raw.githubusercontent.com/aryan-nikzad/SetupVarGUI/main/screenshots/Screenshot%20From%202026-09-21%2013-37-28.png" width="32%">
 </p>
 
